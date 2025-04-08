@@ -1,0 +1,312 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:1280px) {
+
+}
+@media screen and (max-width:1024px) {
+	.brand_logo{ display:nonex; top: 10px; left: 90px;right: 10px;}
+	.brand_logo img{ border: 0px solid red; width:auto; height:inherit}
+	.three-blocks img{ max-width:100%;}
+	.owl-controls {display:none;}
+	.caption {top: 280px;left: 90px; font-size: 24px; max-width: 720px;}
+	.welcome-section {  background: rgba(255, 255, 255, 1);}
+	.cme32, .printCME {
+	  height: 100%;
+	  display: inline-block;
+	  text-align: center;
+	  width: 100%;
+	  margin-bottom: 30px;
+	  }
+	.Txt32{	float: none;}
+	.cme-cpd {
+    float: none;
+    height: 100%;
+    border-top: 1px solid #c7acf6;
+    border-left: 0px solid #c7acf6;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 0;
+    padding-top: 15px;}
+	a.register-now-btn{ margin-bottom:30px;}
+	.printer{    display: inline-block; float:none;}
+	.pyco-box {
+    float: none;
+    height: inherit;
+    border-top: 1px solid #c7acf6;
+    border-left: 0px solid #c7acf6;
+	margin-left: 0;
+    padding-left: 0;
+    margin-top: 15px;
+    padding: 5px;}
+	.pyco-box h3{font-size: 20px;}
+	.pyco-box h2{font-size: 25px;}
+	.cme-cpd h3 {font-size: 15px;}
+	
+	.three-blocks {
+    margin-bottom: 52px;}
+	.overlay-text{ right:0;left:0;bottom: 0px;}
+	.tab-box {
+    width: 23%;
+    text-align: center;
+    float: left;
+    margin-bottom: 2%;
+	margin-right:2%;
+	}
+	.tab-box:nth-child(4) { margin-right:0; }
+	/*.nav>li {
+		position: relative;
+		display: block;
+		width: 100%;
+	}*/
+	.ch-card .nav-tabs>li>a{ margin-bottom:5px; width: 100%;}
+	.product { padding: 30px 20px;}
+	.ch-card .nav-tabs {     margin-bottom: 0;    }
+	.ch-card .nav-tabs>li {    float: left;    width: 24%;    margin-right: 1%;}	 
+	.speaker-box h4 {font-size: 14px;}
+	.navbar-purple .navbar-nav>li {
+		padding: 0;
+	}
+.total-price { position: relative;    right: inherit;}
+.wshoplist img { max-width:100%}
+
+}
+@media screen and (max-width:768px) {
+	.brand_logo{ display:nonex; top: 10px; left: 90px;right: 10px;}
+	.brand_logo img{ border: 0px solid red; width:auto; height:inherit}
+	.three-blocks img{ max-width:100%;}
+	.owl-controls {display:none;}
+	.caption {top: 280px;left: 90px; font-size: 24px; max-width: 720px;}
+	.welcome-section {  background: rgba(255, 255, 255, 1);}
+	.cme32, .printCME {
+	  height: 100%;
+	  display: inline-block;
+	  text-align: center;
+	  width: 100%;
+	  margin-bottom: 30px;
+	  }
+	.Txt32{	float: none;}
+	.cme-cpd {
+    float: none;
+    height: 100%;
+    border-top: 1px solid #c7acf6;
+    border-left: 0px solid #c7acf6;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 0;
+    padding-top: 15px;}
+	a.register-now-btn{     margin-bottom: 30px;
+    height: auto;
+    padding: 15px;}
+	.printer{    display: inline-block; float:none;}
+	.pyco-box {
+    float: none;
+    height: inherit;
+    border-top: 1px solid #c7acf6;
+    border-left: 0px solid #c7acf6;
+	margin-left: 0;
+    padding-left: 0;
+    margin-top: 15px;
+    padding: 5px;}
+	.pyco-box h3{font-size: 20px;}
+	.pyco-box h2{font-size: 25px;}
+	.cme-cpd h3 {font-size: 15px;}
+	
+	.three-blocks {
+    margin-bottom: 52px;}
+	.overlay-text{ right:0;left:0;bottom: 0px;}
+	.tab-box {
+    width: 49%;
+    text-align: center;
+    float: left;
+    margin-bottom: 2%;
+	margin-right:2%;
+	}
+	.tab-box:nth-child(2) { margin-right:0; }
+	footer img {
+		 max-width: 100%;
+	}
+	.copyright p { margin-top: 20px;}
+	/*.nav>li {
+		position: relative;
+		display: block;
+		width: 100%;
+	}*/
+	.ch-card .nav-tabs>li>a{ margin-bottom:5px; width:100%;}
+	.product { padding: 30px 20px;}
+	.ch-card .nav-tabs { margin-bottom: 0;}
+	.ch-card .nav-tabs>li {    float: left;    width: 24%;    margin-right: 1%;}
+	.navbar-purple .navbar-nav>li {
+		padding: 0;
+	}
+	.navbar-purple .navbar-nav>li>a {
+    color: #fff;
+    font-size: 23px;
+}
+.total-price { position: relative;    right: inherit;}
+.wshoplist img { max-width:100%}
+.owl-carousel .owl-item img {  width: 100%;}
+.img-responsive{
+	height: 220px;
+}
+
+}
+
+@media screen and (max-width:425px) {
+	.brand_logo{ display:nonex; top: 10px; left: 90px;right: 10px;}
+	.brand_logo img{ border: 0px solid red; width:100%; height:inherit}
+	.three-blocks img{ max-width:100%;}
+	.owl-controls {display:none;}
+	.caption {top: 280px;left: 90px; font-size: 24px; max-width: 720px;}
+	.welcome-section {  background: rgba(255, 255, 255, 1);}
+	.cme32, .printCME {
+	  height: 100%;
+	  display: inline-block;
+	  text-align: center;
+	  width: 100%;
+	  margin-bottom: 30px;
+	  }
+	.Txt32{	float: none;}
+	.cme-cpd {
+    float: none;
+    height: 100%;
+    border-top: 1px solid #c7acf6;
+    border-left: 0px solid #c7acf6;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 0;
+    padding-top: 15px;}
+	a.register-now-btn{ margin-bottom:30px;}
+	.printer{    display: inline-block; float:none;}
+	.pyco-box {
+    float: none;
+    height: inherit;
+    border-top: 1px solid #c7acf6;
+    border-left: 0px solid #c7acf6;
+	margin-left: 0;
+    padding-left: 0;
+    margin-top: 15px;
+    padding: 5px;}
+	
+	.three-blocks {
+    margin-bottom: 52px;}
+	.overlay-text{ right:0;left:0;bottom: 0px;}
+	.tab-box {
+    width: 100%;
+    text-align: center;
+    margin-right: 0;
+    float: none;
+    margin-bottom: 30px;
+	}
+	/*.nav>li {
+		position: relative;
+		display: block;
+		width: 100%;
+	}*/
+	.ch-card .nav-tabs>li>a{ margin-bottom:5px; width:inherit;}
+	.product { padding: 30px 20px;}
+	.ch-card .nav-tabs { margin-bottom: 0;}
+	.ch-card .nav-tabs>li {    margin-right: 0;    float: none;width: 100%;}
+    footer h2 {font-size: 32px;}
+		 .navbar-purple .navbar-nav>li {
+    float: none;
+    padding: 0;
+    border-right: 0px solid rgba(255, 255, 255, 0.44);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.44);
+}
+ .rslides { height:660px;}
+.program li				{padding:10px 0;}
+.program li .program_a		{width:100%; padding-top:0px; padding-bottom:10px;}
+.program li .program_b		{width:25%;}
+.program li .program_b img	{display:block; width:90%; height:inherit;}
+.program li .program_c		{width:50%; padding-top:0px;}
+.program li .program_d		{width:52%; text-align:right; font-size:13px; display:block;}
+.total-price { position: relative;    right: inherit;}
+.wshoplist img { max-width:100%}
+.ministryLogo {left: 120px;}
+.owl-carousel .owl-item img {  width: 100%;}
+.img-responsive{
+	height: 110px;
+}
+}
+
+@media screen and (max-width:320px) {
+	.brand_logo{ display:nonex; top: 10px; left: 90px;right: 10px;}
+	.brand_logo img{ border: 0px solid red; width:100%; height:inherit}
+	.three-blocks img{ max-width:100%;}
+	.owl-controls {display:none;}
+	.caption {top: 200px;left: 90px; font-size: 24px; max-width: 720px;}
+	.welcome-section {  background: rgba(255, 255, 255, 1);}
+	.cme32, .printCME {
+	  height: 100%;
+	  display: inline-block;
+	  text-align: center;
+	  width: 100%;
+	  margin-bottom: 30px;
+	  }
+	.Txt32{	float: none;}
+	.cme-cpd {
+    float: none;
+    height: 100%;
+    border-top: 1px solid #c7acf6;
+    border-left: 0px solid #c7acf6;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 0;
+    padding-top: 15px;}
+	a.register-now-btn{ margin-bottom:30px;}
+	.printer{    display: inline-block; float:none;}
+	.pyco-box {
+    float: none;
+    height: inherit;
+    border-top: 1px solid #c7acf6;
+    border-left: 0px solid #c7acf6;
+	margin-left: 0;
+    padding-left: 0;
+    margin-top: 15px;
+    padding: 5px;}
+	
+	.three-blocks {
+    margin-bottom: 52px;}
+	.overlay-text{ right:0;left:0;bottom: 0px;}
+	.tab-box {
+    width: 100%;
+    text-align: center;
+    margin-right: 0;
+    float: none;
+    margin-bottom: 30px;
+	}
+	.ch-card .nav-tabs>li>a{ margin-bottom:5px; width:inherit;}
+	.product { padding: 30px 20px;}
+	.ch-card .nav-tabs {
+     margin-bottom: 0;}
+	 /*Top-Menu*/
+	 .navbar-purple .navbar-nav>li {
+    float: none;
+    padding: 0;
+    border-right: 0px solid rgba(255, 255, 255, 0.44);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.44);
+}
+.ch-card .nav-tabs>li {
+    margin-right: 0;
+    float: none;
+}
+  footer h2 {font-size: 32px;}
+  .rslides { height:660px;}
+/* ===== TABS ===== */
+.tab						{width:50%;}
+.tab a 					{width:100%; padding-left:5%; padding-right:5%;}
+/* ===== TABS ===== */
+.program li				{padding:10px 0;}
+.program li .program_a		{width:100%; padding-top:0px; padding-bottom:10px;}
+.program li .program_b		{width:25%;}
+.program li .program_b img	{display:block; width:90%; height:inherit;}
+.program li .program_c		{width:75%; padding-top:0px;}
+.program li .program_d		{width:45%; padding-top:15px; text-align:right; font-size:11px; display:block;}
+.program li .program_c h5   {margin: 0;}
+.program li .program_c h4   {font-size: 16px;    margin: 5px 0 0 0;}
+.total-price { position: relative;    right: inherit;}
+.wshoplist img { max-width:100%}
+.ministryLogo {left: 120px;}
+.owl-carousel .owl-item img {  width: 100%;}
+}
+
